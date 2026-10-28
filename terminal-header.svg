@@ -64,7 +64,7 @@
 <text x="60" y="274" font-size="22" fill="#e3ffef" clip-path="url(#ph3)" font-family="'Courier New',Consolas,monospace">&gt; Kali • Burp • httpx • gau • ZAP</text>
 
 <!-- Footer Credentials -->
-<text x="60" y="330" font-size="14" fill="#4d996e" font-family="'Courier New',Consolas,monospace">[ Cisco Intro to Cybersecurity ] [ OCSP Ongoing ] [ Web &amp; Network Recon ]</text>
+<text x="60" y="330" font-size="14" fill="#4d996e" font-family="'Courier New',Consolas,monospace">[ Cisco Intro to Cybersecurity ] [ OCSP(Offenso Certified Security Professional) ] [ Web &amp; Network Recon ]</text>
 
 <!-- Blinking Cursor -->
 <rect x="60" y="352" width="10" height="18" fill="#00FF66"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" /></rect>

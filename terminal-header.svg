@@ -61,7 +61,7 @@
 <text x="60" y="274" font-size="22" fill="#e3ffef" clip-path="url(#ph0)" font-family="'Courier New',Consolas,monospace">&gt; Junior Security Analyst</text>
 <text x="60" y="274" font-size="22" fill="#e3ffef" clip-path="url(#ph1)" font-family="'Courier New',Consolas,monospace">&gt; VAPT | Threat Detection</text>
 <text x="60" y="274" font-size="22" fill="#e3ffef" clip-path="url(#ph2)" font-family="'Courier New',Consolas,monospace">&gt; Attack to learn. Detect to fix.</text>
-<text x="60" y="274" font-size="22" fill="#e3ffef" clip-path="url(#ph3)" font-family="'Courier New',Consolas,monospace">&gt; Kali • Burp • httpx • Wireshark • ZAP</text>
+<text x="60" y="274" font-size="22" fill="#e3ffef" clip-path="url(#ph3)" font-family="'Courier New',Consolas,monospace">&gt; Kali • Burp • Wireshark • ZAP</text>
 
 <!-- Footer Credentials -->
 <text x="60" y="330" font-size="14" fill="#4d996e" font-family="'Courier New',Consolas,monospace">[ Cisco Intro to Cybersecurity ] [ OCSP(Offenso Certified Security Professional) ] [ Web &amp; Network Recon ]</text>
